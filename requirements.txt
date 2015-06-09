@@ -1,0 +1,12 @@
+Django==1.6
+#MySQL-python==1.2.5
+django-uuidfield
+requests
+django-celery
+pydicom
+boto
+django-storages
+south
+mandrill
+poster
+Unipath==0.2.1
